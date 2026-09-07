@@ -1,2 +1,2 @@
 # Python
-Practicing python from basic
+Practicing lungs cancer predicting model
